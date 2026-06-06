@@ -1,0 +1,20 @@
+[
+    {
+        "Author": "Admin",
+        "Title": "Welcome To LINKUP",
+        "Content": "This is the first post on the network. Thanks for joining.",
+        "Date": "June 6, 2026"
+    },
+    {
+        "Author": "Sarah",
+        "Title": "New Feature",
+        "Content": "We just added dynamic feeds powered by JSON.",
+        "Date": "June 6, 2026"
+    },
+    {
+        "Author": "Mike",
+        "Title": "Hello World",
+        "Content": "This platform looks awesome.",
+        "Date": "June 5, 2026"
+    }
+]
