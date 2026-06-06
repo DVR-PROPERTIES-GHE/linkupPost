@@ -1,6 +1,12 @@
 [
   {
     "Author": "Ethan Rhoades",
+    "Title": "Post",
+    "Content": "loreum ipsum dolor elet salam",
+    "Date": "June 6, 2026"
+  },
+  {
+    "Author": "Ethan Rhoades",
     "Title": "A Simple Upload For The Post System",
     "Content": "Test Of The Post Upload 2",
     "Date": "June 6, 2026"
